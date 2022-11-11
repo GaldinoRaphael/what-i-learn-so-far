@@ -1,4 +1,4 @@
-This project is based in first class of "Learn react for free" from FreeCodeCamp
+This project is based in first class of "Learn react for free" from FreeCodeCamp.\
 Figma of the project: https://www.figma.com/file/bIXpstLZ8ti5Rqvq2dXikd/ReactFacts---My-Copy?node-id=0%3A1
 
 ## Available Scripts
