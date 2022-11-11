@@ -16,7 +16,7 @@ body {
   background-color: #21222A;
 }
 
-.navbar > h2{
+.navbar-subtitle{
   color: #DEEBF8;
 }
 
@@ -26,11 +26,11 @@ body {
 
   gap: 6px;
 }
-.navbar-logo > img{
+.navbar-logo--img{
   width: 30px
 }
 
-.navbar-logo > h1{
+.navbar-logo--title{
   color: #00D8FF;
   font-size: 22.25px;
 }

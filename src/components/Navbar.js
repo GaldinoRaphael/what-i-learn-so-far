@@ -5,10 +5,10 @@ export default function Navbar(){
     return (
         <nav className='navbar'>
             <div className='navbar-logo'>
-                <img src={ReactLogo} alt="reactjs logo"/>
-                <h1>ReactJs</h1>
+                <img className="navbar-logo--img" src={ReactLogo} alt="reactjs logo"/>
+                <h1 className="navbar-logo--title">ReactJs</h1>
             </div>
-            <h2>1º Class - Static Pages</h2>
+            <h2 className="navbar-subtitle">1º Class - Static Pages</h2>
         </nav>
     )
 }
