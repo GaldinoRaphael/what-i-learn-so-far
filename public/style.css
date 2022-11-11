@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Inter';
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
+  height: 96px;
+  justify-content: space-between;
+  background-color: #21222A;
+}
+
+.navbar > h2{
+  color: #DEEBF8;
+}
+
+.navbar-logo{
+  display: flex;
+  align-items: center;
+
+  gap: 6px;
+}
+.navbar-logo > img{
+  width: 30px
+}
+
+.navbar-logo > h1{
+  color: #00D8FF;
+  font-size: 22.25px;
+}
