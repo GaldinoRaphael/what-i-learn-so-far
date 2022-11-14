@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+  background-color: #282D35;
 }
 
 .navbar {
@@ -14,6 +15,7 @@ body {
   height: 96px;
   justify-content: space-between;
   background-color: #21222A;
+  font-weight: 700;
 }
 
 .navbar-subtitle{
@@ -33,4 +35,32 @@ body {
 .navbar-logo--title{
   color: #00D8FF;
   font-size: 22.25px;
+}
+
+.main{
+  padding: 57px 27px;
+}
+
+.main-title{
+  font-size: 39px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.05em;
+}
+
+.main-list{
+  margin-top: 46px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.main-list--item{
+  font-weight: 400;  
+  padding-block: 10px;
+}
+
+.main-list--item::marker{
+  color: #61DAFB;
+  font-size: 30px;
 }
