@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Main(){
     return (
-        <main className='main'>
+        <main>
             <h1 className='main-title'>What I learned so far</h1>
             <ul className='main-list'>
                 <li className='main-list--item' >Function components</li>
